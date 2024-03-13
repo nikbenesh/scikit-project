@@ -1,5 +1,4 @@
-# Dibetes prediction model and other data science tasks
-
+# Using scikit learn to analyse the data
 ## Description 
 This is a data science project. Here I have used scikit learn library and matlpotlib to analyse the data about from different datasets and make predictions on it using classifiers. 
 
